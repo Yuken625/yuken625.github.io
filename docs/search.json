@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "ここはテスト用の Quarto サイトです。数式：\\(E=mc^2\\)"
+  },
+  {
+    "objectID": "publication.html",
+    "href": "publication.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Publications\n\n2025: Example Paper, ApJ\n2024: Another Paper, PASJ"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Publications\n\n2025: Example Paper, ApJ\n2024: Another Paper, PASJ"
+  },
+  {
+    "objectID": "index.html#plotly-デモ",
+    "href": "index.html#plotly-デモ",
+    "title": "Home",
+    "section": "",
+    "text": "import plotly.express as px df = px.data.iris() fig = px.scatter(df, x=“sepal_width”, y=“sepal_length”, color=“species”) fig"
+  }
+]

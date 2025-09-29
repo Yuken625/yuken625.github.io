@@ -1,0 +1,17 @@
+project:
+  type: website        # サイトとしてビルド
+  output-dir: docs     # GitHub Pages 用出力先
+
+website:
+  title: "My Research Site"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications
+
+format:
+  html:
+    theme: cosmo       # 既存テーマの1つ
+    toc: true          # 目次を表示

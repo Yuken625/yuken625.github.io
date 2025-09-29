@@ -1,0 +1,22 @@
+---
+title: "Home"
+format:
+  html:
+    toc: true
+execute:
+  echo: false
+jupyter: python3
+---
+
+# ようこそ
+
+ここはテスト用の Quarto サイトです。数式：$E=mc^2$
+
+## Plotly デモ
+
+```{python}
+import plotly.express as px
+df = px.data.iris()
+fig = px.scatter(df, x="sepal_width", y="sepal_length", color="species")
+fig
+```
