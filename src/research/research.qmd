@@ -8,29 +8,21 @@ format:
 # Overview
 I am working on high-energy astrophysics.
 
-![Fe Kα emission from 3C 397](images/xrism_spectrum.jpg){width=70% fig-align="center"}
-
 ---
 
 # Topics
 
 ## 1. Type Ia Supernova Remnants
-- XRISM/Resolve を用いた IGE（Fe, Mn, Cr, Ni）のK殻輝線解析  
-- 中性子化度と白色矮星中心密度の制約  
-- 例：3C 397, G344.7–0.1
-
-![Chandra image of 3C 397](images/snr3c397.png){width=60% fig-align="center"}
+TBA
 
 ---
 
-## 2. Plasma Diagnostics
-- NEI（非平衡電離）モデルによる温度・イオン化時定数の決定  
-- ショック加熱後の電子・イオン温度緩和プロセス
+## 2. Plasma modeling
+TBA
 
 ---
 
-## 3. Atomic Processes
-- AtomDB や FAC を用いた鉄族元素の原子データ改良  
-- Ti/Fe 輝線比による爆発核燃焼領域の推定
+## 3. Ground-based experiments
+TBA
 
 ---
