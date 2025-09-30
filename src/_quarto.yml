@@ -1,29 +1,25 @@
 project:
   type: website
+  output-dir: ../docs
 
 bibliography: references.bib
 
 website:
   title: "Yuken Ohshiro"
   navbar:
-    right:
-      - text: 日本語
-        href: ../ja/index.qmd
-      - text: English
-        href: ../en/index.qmd
     left:
       - text: Home
         href: index.qmd
       - text: News
-        href: news.qmd
+        href: news/news.qmd
       - text: CV
-        href: cv.qmd
+        href: cv/cv.qmd
       - text: Research
         href: research/research.qmd
       - text: Publications
-        href: publications.qmd
+        href: publications/publications.qmd
       - text: Software
-        href: software.qmd
+        href: software/software.qmd
 
 format:
   html:

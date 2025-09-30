@@ -6,7 +6,7 @@ format:
 ---
 
 # Overview
-私の研究は **Type Ia Supernovae** の起源解明を目指した超新星残骸のX線観測を行っています。
+I am working on high-energy astrophysics.
 
 ![Fe Kα emission from 3C 397](images/xrism_spectrum.jpg){width=70% fig-align="center"}
 

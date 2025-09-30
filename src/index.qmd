@@ -4,8 +4,8 @@ format:
   html:
     toc: true
 listing:
-  id: latest-news               # ← 本文で参照するID
-  contents: news                # ← src/news/ 配下の .qmd を収集
+  id: latest-news
+  contents: news/contents/
   type: "default"
   sort: "date desc"
   date-format: "YYYY-MM-DD"
@@ -15,18 +15,18 @@ listing:
 ---
 
 # Welcome
-大城勇憲のウェブページ
+I am 
 
 ## News
 ::: {#latest-news}
 :::
 
 ## Contact
-- メール: yuken.ohshiro \_at\_ riken.jp  
+- E-mail: yuken.ohshiro \_at\_ riken.jp  
 - ORCID: [0009-0002-4783-3395](https://orcid.org/0009-0002-4783-3395)  
 - Researchmap: [https://researchmap.jp/yuken-ohshiro](https://researchmap.jp/yuken-ohshiro)
-- 所属: 理化学研究所 開拓研究所 玉川高エネルギー宇宙物理研究室
-- 住所: 〒351-0198 埼玉県和光市広沢 2-1 研究本館 xxx号室
+- Affiliation: RIKEN Pioneering Research Institute (PRI)
+- Address: 2-1 Hirosawa, Wako, Saitama 351-0198, Japan
 
 <iframe
   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1571.426004046237!2d139.61156142342585!3d35.77996077013359!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018ebfd55ba620d%3A0xc0e85ee61939d400!2z54m55a6a5Zu956uL56CU56m26ZaL55m65rOV5Lq6IOeQhuWMluWtpueglOeptuaJgA!5e0!3m2!1sja!2sjp!4v1759208514516!5m2!1sja!2sjp"

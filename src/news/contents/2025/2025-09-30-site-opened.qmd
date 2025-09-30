@@ -1,0 +1,7 @@
+---
+title: "Website is out now"
+date: 2025-09-30
+# categories: [2025]
+---
+
+My website has been deployed via Quarto.

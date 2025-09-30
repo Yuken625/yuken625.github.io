@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Home – Yuken Ohshiro</title>
+<title>Redirecting… – Yuken Ohshiro</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -74,65 +72,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-latest-news .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-latest-news'] = new List('listing-latest-news', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -322,11 +262,11 @@ window.Quarto = {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./news.html"> 
+    <a class="nav-link" href="./news/news.qmd"> 
 <span class="menu-text">News</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./cv.html"> 
+    <a class="nav-link" href="./cv/cv.qmd"> 
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
@@ -334,11 +274,11 @@ window.Quarto = {
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html"> 
+    <a class="nav-link" href="./publications/publications.qmd"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./software.html"> 
+    <a class="nav-link" href="./software/software.qmd"> 
 <span class="menu-text">Software</span></a>
   </li>  
 </ul>
@@ -368,11 +308,7 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#welcome" id="toc-welcome" class="nav-link active" data-scroll-target="#welcome">Welcome</a>
-  <ul class="collapse">
-  <li><a href="#news" id="toc-news" class="nav-link" data-scroll-target="#news">News</a></li>
-  <li><a href="#contact" id="toc-contact" class="nav-link" data-scroll-target="#contact">Contact</a></li>
-  </ul></li>
+  <li><a href="#redirecting" id="toc-redirecting" class="nav-link active" data-scroll-target="#redirecting">Redirecting…</a></li>
   </ul>
 </nav>
     </div>
@@ -382,7 +318,7 @@ window.Quarto = {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Home</h1>
+<h1 class="title">Redirecting…</h1>
 </div>
 
 
@@ -399,56 +335,12 @@ window.Quarto = {
 </header>
 
 
-<section id="welcome" class="level1">
-<h1>Welcome</h1>
-<p>大城勇憲のウェブページ</p>
-<section id="news" class="level2">
-<h2 class="anchored" data-anchor-id="news">News</h2>
-<div id="listing-latest-news" class="quarto-listing quarto-listing-container-default">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1759158000000" data-listing-file-modified-sort="1759207972973" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="5">
-<div class="thumbnail"><a href="./news/2025/2025-09-30-site-opened.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./news/2025/2025-09-30-site-opened.html" class="no-external">サイトを作成しました</a>
-</h3>
-<div class="delink listing-description"><a href="./news/2025/2025-09-30-site-opened.html" class="no-external">
-Quarto を用いたサイト制作を行いました。Markdown を HTML に変換してくれる便利なフレームワークらしい。
-</a></div>
-</div>
-<div class="metadata">
-<a href="./news/2025/2025-09-30-site-opened.html" class="no-external">
-<div class="listing-date">
-2025-09-30
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
-</section>
-<section id="contact" class="level2">
-<h2 class="anchored" data-anchor-id="contact">Contact</h2>
-<ul>
-<li>メール: yuken.ohshiro _at_ riken.jp<br>
-</li>
-<li>ORCID: <a href="https://orcid.org/0009-0002-4783-3395">0009-0002-4783-3395</a><br>
-</li>
-<li>Researchmap: <a href="https://researchmap.jp/yuken-ohshiro">https://researchmap.jp/yuken-ohshiro</a></li>
-<li>所属: 理化学研究所 開拓研究所 玉川高エネルギー宇宙物理研究室</li>
-<li>住所: 〒351-0198 埼玉県和光市広沢 2-1 研究本館 xxx号室</li>
-</ul>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1571.426004046237!2d139.61156142342585!3d35.77996077013359!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018ebfd55ba620d%3A0xc0e85ee61939d400!2z54m55a6a5Zu956uL56CU56m26ZaL55m65rOV5Lq6IOeQhuWMluWtpueglOeptuaJgA!5e0!3m2!1sja!2sjp!4v1759208514516!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
-</iframe>
+<section id="redirecting" class="level1">
+<h1>Redirecting…</h1>
+<p>このページは自動的に <a href="ja/">日本語サイト</a> へ移動します。</p>
+<p>もし自動で移動しない場合は、上のリンクをクリックしてください。</p>
 
 
-
-</section>
 </section>
 
 </main> <!-- /main -->

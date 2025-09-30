@@ -1,0 +1,8 @@
+---
+title: "Curriculum Vitae"
+format:
+  html:
+    toc: true      # ページ右に目次を表示
+---
+
+See [My Researchmap](https://researchmap.jp/yuken-ohshiro?lang=en)

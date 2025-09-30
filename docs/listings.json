@@ -1,0 +1,18 @@
+[
+  {
+    "listing": "/news/news.html",
+    "items": [
+      "/news/contents/2025/2025-09-30-site-opened.html",
+      "/news/contents/2024/2024-01-01-dummy.html",
+      "/news/contents/2023/2023-01-01-dummy.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/news/contents/2025/2025-09-30-site-opened.html",
+      "/news/contents/2024/2024-01-01-dummy.html",
+      "/news/contents/2023/2023-01-01-dummy.html"
+    ]
+  }
+]

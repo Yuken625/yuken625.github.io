@@ -1,0 +1,8 @@
+---
+title: "Publications"
+format:
+  html:
+    toc: true
+---
+
+See [My Researchmap](https://researchmap.jp/yuken-ohshiro/published_papers?lang=en)

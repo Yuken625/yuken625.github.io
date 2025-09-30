@@ -1,9 +1,0 @@
----
-title: "Software"
-bibliography: references.bib
-format:
-  html:
-    toc: true
----
-
-# 工事中
