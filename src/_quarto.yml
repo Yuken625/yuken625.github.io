@@ -1,0 +1,44 @@
+project:
+  type: website
+
+bibliography: references.bib
+
+profiles:
+  ja:
+    lang: ja
+    output-dir: ../docs/ja
+  en:
+    lang: en
+    output-dir: ../docs/en
+
+website:
+  title: "Yuken Ohshiro"
+  navbar:
+    right:
+      - text: 日本語
+        href: ../ja/index.qmd
+      - text: English
+        href: ../en/index.qmd
+    left:
+      - text: Home
+        href: index.qmd
+      - text: News
+        href: news.qmd
+      - text: CV
+        href: cv.qmd
+      - text: Research
+        href: research/research.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Software
+        href: software.qmd
+
+format:
+  html:
+    theme:
+      light: lux           # 明るいテーマ
+      dark: slate          # ダークモード用（optional）
+    fontsize: 1.1em        # デフォルトより少し大きめ
+    linestretch: 1.3       # 行間を広めに
+    toc: true
+    number-sections: false

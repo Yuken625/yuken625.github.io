@@ -1,0 +1,45 @@
+---
+title: "Curriculum Vitae"
+format:
+  html:
+    toc: true      # ページ右に目次を表示
+---
+
+# Profile
+- **Name:** Yuken Ohshiro
+- **Affiliation:** RIKEN Pioneering Research Institute (PRI), 2-1 Hirosawa, Wako, Saitama 351-0198, Japan
+- **Position:** Special Postdoctoral Researcher
+- **Email:** yuken.ohshiro@riken.jp
+- **ORCID:** [0009-0002-4783-3395](https://orcid.org/0009-0002-4783-3395)
+- **GitHub:** [github.com/Yuken625](https://github.com/Yuken625/)
+
+---
+
+# Education
+- **Ph.D. in Astrophysics**, University of Tokyo — 2025  
+  Dissertation: *X-ray Spectroscopy of Type Ia Supernova Remnants*
+- **M.Sc. in Physics**, University of Tokyo — 2022
+- **B.Sc. in Physics**, University of Tokyo — 2020
+
+---
+
+# Professional Experience
+- **Postdoctoral Researcher**, RIKEN – 2025–present  
+  XRISM Resolve data analysis of Type Ia SNR 3C 397, IGE abundance studies  
+- **Research Fellow (DC1)**, JSPS – 2022–2025  
+- **Visiting Researcher**, CfA, Harvard & Smithsonian – Mar 2025
+
+---
+
+# Research Interests
+- Type Ia Supernovae & Supernova Remnants  
+- X-ray Spectroscopy (XRISM Resolve, Chandra, XMM-Newton)
+- Plasma Diagnostics & NEI Modelling
+- Atomic Processes for Iron-group Elements
+
+---
+
+# Awards & Fellowships
+- JSPS DC1 Research Fellowship, 2022–2025
+
+---

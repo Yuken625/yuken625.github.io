@@ -1,0 +1,15 @@
+---
+title: "論文"
+bibliography: references.bib
+format:
+  html:
+    toc: true
+---
+
+# 論文
+- @ohshiro2025a
+- @ohshiro2024b
+
+# 全リスト
+::: {#refs}
+:::
