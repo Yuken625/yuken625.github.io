@@ -1,31 +1,45 @@
 [
   {
-    "objectID": "cv/cv.ja.html",
-    "href": "cv/cv.ja.html",
-    "title": "略歴（Curriculum Vitae）",
+    "objectID": "cv/cv.html",
+    "href": "cv/cv.html",
+    "title": "Curriculum Vitae",
     "section": "",
     "text": "See My Researchmap"
   },
   {
-    "objectID": "news/news.html",
-    "href": "news/news.html",
-    "title": "News",
+    "objectID": "news/contents/2023/2023-01-01-dummy.html",
+    "href": "news/contents/2023/2023-01-01-dummy.html",
+    "title": "dummy",
     "section": "",
-    "text": "All202520242023\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWebsite is out now\n\n\n\n\n\n\n\n\n2025-09-30\n\n\n\n\n\n\n\n\n\n\n\n\ndummy\n\n\n\n\n\n\n\n\n2024-01-01\n\n\n\n\n\n\n\n\n\n\n\n\ndummy\n\n\n\n\n\n\n\n\n2023-01-01\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\nWebsite is out now\n\n\n\n\n\n\n\n\n2025-09-30\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\ndummy\n\n\n\n\n\n\n\n\n2024-01-01\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\ndummy\n\n\n\n\n\n\n\n\n2023-01-01\n\n\n\n\n\nNo matching items"
+    "text": "This is a dummy page."
   },
   {
-    "objectID": "software/software.html",
-    "href": "software/software.html",
-    "title": "Software",
+    "objectID": "news/contents/2025/2025-09-30-site-opened.html",
+    "href": "news/contents/2025/2025-09-30-site-opened.html",
+    "title": "Website is out now",
     "section": "",
-    "text": "Under construction…"
+    "text": "My website has been deployed via Quarto."
   },
   {
-    "objectID": "publications/publications.html",
-    "href": "publications/publications.html",
-    "title": "Publications",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
     "section": "",
-    "text": "See My Researchmap"
+    "text": "I am\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2025-09-30\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2024-01-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2023-01-01\n\n\n\n\n\nNo matching items\n\n\n\n\n\nE-mail: yuken.ohshiro _at_ riken.jp\n\nORCID: 0009-0002-4783-3395\n\nResearchmap: https://researchmap.jp/yuken-ohshiro\nAffiliation: RIKEN Pioneering Research Institute (PRI)\nAddress: 2-1 Hirosawa, Wako, Saitama 351-0198, Japan"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Home",
+    "section": "",
+    "text": "2025-09-30\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2024-01-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2023-01-01\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Home",
+    "section": "",
+    "text": "E-mail: yuken.ohshiro _at_ riken.jp\n\nORCID: 0009-0002-4783-3395\n\nResearchmap: https://researchmap.jp/yuken-ohshiro\nAffiliation: RIKEN Pioneering Research Institute (PRI)\nAddress: 2-1 Hirosawa, Wako, Saitama 351-0198, Japan"
   },
   {
     "objectID": "research/research.html",
@@ -56,60 +70,18 @@
     "text": "3. Atomic Processes\n\nAtomDB や FAC を用いた鉄族元素の原子データ改良\n\nTi/Fe 輝線比による爆発核燃焼領域の推定"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "I am\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2025-09-30\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2024-01-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2023-01-01\n\n\n\n\n\nNo matching items\n\n\n\n\n\nE-mail: yuken.ohshiro _at_ riken.jp\n\nORCID: 0009-0002-4783-3395\n\nResearchmap: https://researchmap.jp/yuken-ohshiro\nAffiliation: RIKEN Pioneering Research Institute (PRI)\nAddress: 2-1 Hirosawa, Wako, Saitama 351-0198, Japan"
-  },
-  {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "Home",
-    "section": "",
-    "text": "2025-09-30\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2024-01-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2023-01-01\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Home",
-    "section": "",
-    "text": "E-mail: yuken.ohshiro _at_ riken.jp\n\nORCID: 0009-0002-4783-3395\n\nResearchmap: https://researchmap.jp/yuken-ohshiro\nAffiliation: RIKEN Pioneering Research Institute (PRI)\nAddress: 2-1 Hirosawa, Wako, Saitama 351-0198, Japan"
-  },
-  {
-    "objectID": "news/2025/2025-09-30-site-opened.html",
-    "href": "news/2025/2025-09-30-site-opened.html",
-    "title": "サイトを作成しました",
-    "section": "",
-    "text": "Quarto を用いたサイト制作を行いました。Markdown を HTML に変換してくれる便利なフレームワークらしい。"
-  },
-  {
-    "objectID": "cv/cv.en.html",
-    "href": "cv/cv.en.html",
-    "title": "略歴（Curriculum Vitae）",
+    "objectID": "publications/publications.html",
+    "href": "publications/publications.html",
+    "title": "Publications",
     "section": "",
     "text": "See My Researchmap"
   },
   {
-    "objectID": "cv/cv.html",
-    "href": "cv/cv.html",
-    "title": "Curriculum Vitae",
+    "objectID": "software/software.html",
+    "href": "software/software.html",
+    "title": "Software",
     "section": "",
-    "text": "See My Researchmap"
-  },
-  {
-    "objectID": "news/contents/2025/2025-09-30-site-opened.html",
-    "href": "news/contents/2025/2025-09-30-site-opened.html",
-    "title": "Website is out now",
-    "section": "",
-    "text": "My website has been deployed via Quarto."
-  },
-  {
-    "objectID": "news/contents/2023/2023-01-01-dummy.html",
-    "href": "news/contents/2023/2023-01-01-dummy.html",
-    "title": "dummy",
-    "section": "",
-    "text": "This is a dummy page."
+    "text": "Under construction…"
   },
   {
     "objectID": "news/contents/2024/2024-01-01-dummy.html",
@@ -117,5 +89,12 @@
     "title": "dummy",
     "section": "",
     "text": "This is a dummy page."
+  },
+  {
+    "objectID": "news/news.html",
+    "href": "news/news.html",
+    "title": "News",
+    "section": "",
+    "text": "All202520242023\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWebsite is out now\n\n\n\n\n\n\n\n\n2025-09-30\n\n\n\n\n\n\n\n\n\n\n\n\ndummy\n\n\n\n\n\n\n\n\n2024-01-01\n\n\n\n\n\n\n\n\n\n\n\n\ndummy\n\n\n\n\n\n\n\n\n2023-01-01\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\nWebsite is out now\n\n\n\n\n\n\n\n\n2025-09-30\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\ndummy\n\n\n\n\n\n\n\n\n2024-01-01\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\ndummy\n\n\n\n\n\n\n\n\n2023-01-01\n\n\n\n\n\nNo matching items"
   }
 ]
