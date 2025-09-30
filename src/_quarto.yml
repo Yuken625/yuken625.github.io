@@ -3,14 +3,6 @@ project:
 
 bibliography: references.bib
 
-profiles:
-  ja:
-    lang: ja
-    output-dir: ../docs/ja
-  en:
-    lang: en
-    output-dir: ../docs/en
-
 website:
   title: "Yuken Ohshiro"
   navbar:
@@ -36,9 +28,9 @@ website:
 format:
   html:
     theme:
-      light: lux           # 明るいテーマ
-      dark: slate          # ダークモード用（optional）
-    fontsize: 1.1em        # デフォルトより少し大きめ
-    linestretch: 1.3       # 行間を広めに
+      light: lux
+      dark: slate
+    fontsize: 1.1em
+    linestretch: 1.3
     toc: true
     number-sections: false

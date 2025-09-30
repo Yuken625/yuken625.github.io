@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "cv.en.html",
+    "href": "cv.en.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Profile\n\nName: Yuken Ohshiro\nAffiliation: RIKEN Pioneering Research Institute (PRI), 2-1 Hirosawa, Wako, Saitama 351-0198, Japan\nPosition: Special Postdoctoral Researcher\nEmail: yuken.ohshiro@riken.jp\nORCID: 0009-0002-4783-3395\nGitHub: github.com/Yuken625\n\n\n\n\nEducation\n\nPh.D. in Astrophysics, University of Tokyo — 2025\nDissertation: X-ray Spectroscopy of Type Ia Supernova Remnants\nM.Sc. in Physics, University of Tokyo — 2022\nB.Sc. in Physics, University of Tokyo — 2020\n\n\n\n\nProfessional Experience\n\nPostdoctoral Researcher, RIKEN – 2025–present\nXRISM Resolve data analysis of Type Ia SNR 3C 397, IGE abundance studies\n\nResearch Fellow (DC1), JSPS – 2022–2025\n\nVisiting Researcher, CfA, Harvard & Smithsonian – Mar 2025\n\n\n\n\nResearch Interests\n\nType Ia Supernovae & Supernova Remnants\n\nX-ray Spectroscopy (XRISM Resolve, Chandra, XMM-Newton)\nPlasma Diagnostics & NEI Modelling\nAtomic Processes for Iron-group Elements\n\n\n\n\nAwards & Fellowships\n\nJSPS DC1 Research Fellowship, 2022–2025"
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "工事中"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "論文",
+    "section": "",
+    "text": "論文\n\nOhshiro and Others (2025)\n(ohshiro2024b?)\n\n\n\n全リスト\n\n\nOhshiro, Yuken, and Others. 2025. “XRISM Resolve Spectroscopy of 3C 397.” ApJ. https://doi.org/10.0000/abcd.12345."
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "All202520242023\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nサイトを作成しました\n\n\n\n\n\n\n\n\n2025-09-30\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\nサイトを作成しました\n\n\n\n\n\n\n\n\n2025-09-30\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/research.html",
+    "href": "research/research.html",
+    "title": "Research",
+    "section": "",
+    "text": "私の研究は Type Ia Supernovae の起源解明を目指した超新星残骸のX線観測を行っています。\n\n\n\nFe Kα emission from 3C 397"
+  },
+  {
+    "objectID": "research/research.html#type-ia-supernova-remnants",
+    "href": "research/research.html#type-ia-supernova-remnants",
+    "title": "Research",
+    "section": "1. Type Ia Supernova Remnants",
+    "text": "1. Type Ia Supernova Remnants\n\nXRISM/Resolve を用いた IGE（Fe, Mn, Cr, Ni）のK殻輝線解析\n\n中性子化度と白色矮星中心密度の制約\n\n例：3C 397, G344.7–0.1\n\n\n\n\nChandra image of 3C 397"
+  },
+  {
+    "objectID": "research/research.html#plasma-diagnostics",
+    "href": "research/research.html#plasma-diagnostics",
+    "title": "Research",
+    "section": "2. Plasma Diagnostics",
+    "text": "2. Plasma Diagnostics\n\nNEI（非平衡電離）モデルによる温度・イオン化時定数の決定\n\nショック加熱後の電子・イオン温度緩和プロセス"
+  },
+  {
+    "objectID": "research/research.html#atomic-processes",
+    "href": "research/research.html#atomic-processes",
+    "title": "Research",
+    "section": "3. Atomic Processes",
+    "text": "3. Atomic Processes\n\nAtomDB や FAC を用いた鉄族元素の原子データ改良\n\nTi/Fe 輝線比による爆発核燃焼領域の推定"
+  },
+  {
+    "objectID": "index.en.html",
+    "href": "index.en.html",
+    "title": "Home",
+    "section": "",
+    "text": "This is a demo page for the Quarto website.\nHere is a math formula: \\(E = mc^2\\)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "大城勇憲のウェブページ\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2025-09-30\n\n\n\n\n\nNo matching items\n\n\n\n\n\nメール: yuken.ohshiro _at_ riken.jp\n\nORCID: 0009-0002-4783-3395\n\nResearchmap: https://researchmap.jp/yuken-ohshiro\n所属: 理化学研究所 開拓研究所 玉川高エネルギー宇宙物理研究室\n住所: 〒351-0198 埼玉県和光市広沢 2-1 研究本館 xxx号室"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Home",
+    "section": "",
+    "text": "2025-09-30\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Home",
+    "section": "",
+    "text": "メール: yuken.ohshiro _at_ riken.jp\n\nORCID: 0009-0002-4783-3395\n\nResearchmap: https://researchmap.jp/yuken-ohshiro\n所属: 理化学研究所 開拓研究所 玉川高エネルギー宇宙物理研究室\n住所: 〒351-0198 埼玉県和光市広沢 2-1 研究本館 xxx号室"
+  },
+  {
+    "objectID": "news/2025/2025-09-30-site-opened.html",
+    "href": "news/2025/2025-09-30-site-opened.html",
+    "title": "サイトを作成しました",
+    "section": "",
+    "text": "Quarto を用いたサイト制作を行いました。Markdown を HTML に変換してくれる便利なフレームワークらしい。"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "略歴（Curriculum Vitae）",
+    "section": "",
+    "text": "プロフィール\n\n氏名: 大城 勇憲\n所属: 理化学研究所 開拓研究所 玉川高エネルギー宇宙物理研究室 〒351-0198 埼玉県和光市広沢2-1\n職位: 基礎科学特別研究員（Special Postdoctoral Researcher）\nE-mail: yuken.ohshiro _at_ riken.jp\nORCID: 0009-0002-4783-3395\nGitHub: github.com/Yuken625\n\n\n\n\nResearch interests\n\nIa型超新星および超新星残骸\n\nX線分光（XRISM Resolve・Chandra・XMM-Newton）\nプラズマ診断と非平衡電離（NEI）モデリング\n鉄族元素の原子過程\n\n\n\n\n学歴\n\n2022年4月 – 2025年3月　東京大学 理学系研究科 物理学専攻\n博士論文：X-ray Spectroscopy of Type Ia Supernova Remnants\n2020年4月 – 2022年3月　東京大学 理学系研究科 物理学専攻\n修士論文:hogehoge\n2016年4月 – 2020年3月　首都大学東京（現：東京都立大学）\n\n\n\n\n職歴\n\n2025年4月 – 現在　基礎科学特別研究員（ポスドク）　理化学研究所\n\n2022年4月 – 2025年3月　日本学術振興会 特別研究員（DC1）\n\n\n\n\n受賞・フェローシップ\n\n2022年4月 – 2025年3月　日本学術振興会 特別研究員（DC1）\n2022年4月 – 2025年3月"
+  }
+]
